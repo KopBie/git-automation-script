@@ -21,7 +21,7 @@ A powerful and interactive Bash script designed to automate daily Git workflows.
 
 1. Clone this repository or download the `git-manager.sh` file:
    ```bash
-   git clonehttps://github.com/KopBie/git-manager.git
+   git clone https://github.com/KopBie/git-automation-script.git
    cd git-manager
 2. Grant executable permission to the script:
    ```bash
