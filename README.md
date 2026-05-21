@@ -30,11 +30,11 @@ A powerful and interactive Bash script designed to automate daily Git workflows.
    ```bash
    ./git-manager.sh
 
-⚙️ How It Works
+## ⚙️ How It Works
 The script contains a centralized interactive loop:
-Option 1: Initializes Git and configures remote URLs dynamically.
-Option 2: Performs safe staging, displays status summaries, and pushes securely.
-Option 3: Reads dynamic arrays of local directory contents, allowing targeted deletion without manual command typing.
+* Option 1: Initializes Git and configures remote URLs dynamically.
+* Option 2: Performs safe staging, displays status summaries, and pushes securely.
+* Option 3: Reads dynamic arrays of local directory contents, allowing targeted deletion without manual command typing.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
